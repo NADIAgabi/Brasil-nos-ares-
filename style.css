@@ -21,7 +21,7 @@ p {
 li {
  color:  rgb(0, 0, 0);
   text-align: center;
-    text-decoration: blue;
+    text-decoration: none;
   font-size: 160%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height:1.5em;}
